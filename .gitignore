@@ -1,0 +1,38 @@
+# Executáveis
+programa
+programa.exe
+
+# Arquivos compilados
+*.o
+*.a
+*.so
+*.dylib
+
+# Ambiente virtual Python
+.venv/
+venv/
+ENV/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Resultados temporários
+*.tmp
+*.log
